@@ -1,1 +1,1 @@
-V1.66 out. overhauls Optimize panel.
+V1.66 out. overhauls Customize panel.
