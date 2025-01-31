@@ -1,1 +1,1 @@
-PSP v1.33 out now. Improved Easy Physics tools!
+Change jiggle physics strength in V1.68!
