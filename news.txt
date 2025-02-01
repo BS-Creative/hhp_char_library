@@ -1,1 +1,1 @@
-Change jiggle physics strength in V1.68!
+Change jiggle physics strength in V1.71!
