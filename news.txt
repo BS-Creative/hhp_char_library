@@ -1,1 +1,1 @@
-Change jiggle physics strength in V1.71!
+V1.72 out. Mac OS compatible
