@@ -1,1 +1,1 @@
-V1.75 out - FK switch, physics fps & more
+V1.77 out - Cycles switcher from optimize panel.
