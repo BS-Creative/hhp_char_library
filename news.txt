@@ -1,1 +1,1 @@
-V1.87 out - Create presets, auto rebind & more.
+V1.90 out - Advanced physics, improved UI, and more.
