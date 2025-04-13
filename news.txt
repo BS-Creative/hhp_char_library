@@ -1,1 +1,1 @@
-V1.91 Hotfix update! - Bug fixes
+V1.96 out - Support for B4.4 and updated UI
