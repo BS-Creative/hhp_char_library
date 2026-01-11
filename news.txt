@@ -1,1 +1,1 @@
-V2.3 out now. Character swap made easy!
+V2.51 out now. Blender 5.0 support!
