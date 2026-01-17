@@ -1,1 +1,1 @@
-V2.51 out now. Blender 5.0 support!
+Grid select with HHP V2.60 out now!
