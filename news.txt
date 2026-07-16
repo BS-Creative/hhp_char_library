@@ -1,1 +1,1 @@
-HHP V2.84 HOTFIX out now
+HHP V2.85 out now. global optimize toggle
